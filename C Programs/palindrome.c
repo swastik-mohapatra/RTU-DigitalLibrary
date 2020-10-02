@@ -1,4 +1,4 @@
-lindrome
+// palindrome program
 #include <stdio.h>
 int main() {
     int n, reversedN = 0, remainder, originalN;
